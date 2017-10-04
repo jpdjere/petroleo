@@ -1,0 +1,325 @@
+<!DOCTYPE HTML>
+
+<html lang="es">
+
+	<head>
+
+		<title>Watson</title>
+
+		<!-- metatags -->
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<!-- mobile Specific Metas -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+		<meta names="apple-mobile-web-app-status-bar-style" content="black-translucent">
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="format-detection" content="telephone=no">
+
+		<!-- /// -->
+
+		<!-- google fonts -->
+		<!--<link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">-->
+
+
+		<!-- stylesheet -->
+		<link rel="stylesheet" type="text/css" href="css/main.css" media="screen" />
+
+		<!-- stylesheet - font awesome -->
+		<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" media="screen" />
+		<!-- stylesheet - colorobox -->
+		<link rel="stylesheet"  type="text/css" href="css/featherlight.css">
+		<!-- /// -->
+
+		<!-- Javascript -->
+		<script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+		<script type="text/javascript" src="js/functions.js"></script>
+		<script type="text/javascript" src="js/featherlight.js"></script>
+		<!-- <script>
+			function onClick(element) {
+  			document.getElementById('../img/YPF.png').src = element.src;
+  			document.getElementById("modal01").style.display = "block"
+  		}
+  		</script> -->
+		<script type="text/javascript">
+			function eventFire(el, etype){
+			  if (el.fireEvent) {
+			    el.fireEvent('on' + etype);
+			  } else {
+			    var evObj = document.createEvent('Events');
+			    evObj.initEvent(etype, true, false);
+			    el.dispatchEvent(evObj);
+			  }
+			}
+			function popitup(url) {
+				if (url=="i")
+					eventFire(document.getElementById('bImage'), 'click');
+				if (url=="l")
+					eventFire(document.getElementById('bLaw'), 'click');
+			}
+		</script>
+
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+	</head>
+
+
+
+
+	<body>
+
+<button type="button" data-toggle="modal" data-target="#myModalImage" id="bImage" hidden></button>
+<div class="container">
+  <!-- Modal -->
+  <div class="modal fade" id="myModalImage" role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content" >
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Proceso</h4>  <!-- PONELE EL TITULO QUE QUIERAS-->
+        </div>
+        <div class="modal-body">
+          <img src="../img/YPF.png" style="height:550px; width:350px;"> <!-- PONELE LA IMAGEN QUE QUIERAS-->
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<button type="button" data-toggle="modal" data-target="#myModalLaw" id="bLaw" hidden></button>
+<div class="container">
+  <!-- Modal -->
+  <div class="modal fade" id="myModalLaw" role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Normativa</h4>  <!-- PONELE EL TITULO QUE QUIERAS-->
+        </div>
+        <div class="modal-body">
+          <!-- <iframe src="https://docs.google.com/document/d/e/2PACX-1vSWEng38bdbsO9RsrFu3okF181cH1tq7Xnb0koIbu8h4FQvw3zBojb3s-XjJFehAdZBu89zPOb_z31a/pub" style="height:550px; width:550px;"></iframe> -->
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/XH7gRTpcVN0?rel=0" frameborder="0" allowfullscreen></iframe>
+				</div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+
+		<!--watson_container-->
+		<div id="chat_container">
+
+			<!--img_viewer-->
+			<div class="img-viewer" id="img-viewer"></div>
+			<!--/img_viewer-->
+
+			<!--messenger_frame-->
+			<div class="messenger-frame">
+
+				<!--frame_header-->
+				<header class="frame-header">
+					<div class="table">
+
+						<!--avatar-->
+						<div class="cell middle left">
+							<div class="avatar">
+							</div>
+						</div>
+						<!--/avatar-->
+
+						<!--title-->
+						<div class="cell middle center">
+							<div class="title">
+								<div class="name"><strong>Watson</strong></div>
+							</div>
+							<div class="status">
+								<div class="online_status"></div>
+								<span class="text-status">en linea</span>
+							</div>
+						</div>
+
+
+
+						<!--minimize&close-->
+						<div class="cell middle right" style="vertical-align: top; padding-top: 6px;">
+							<div class="minimize">
+								<a href="#" id="minimizeChat">&minus;</a>
+							</div>
+							<div class="close">
+								<a href="#" id="closeChat">&times;</a>
+							</div>
+						</div>
+						<!--/minimize&close-->
+					</div>
+				</header>
+				<!--/frame_header-->
+
+				<!-- /// -->
+
+				<!--messenger_body-->
+				<section class="messenger-body">
+					<div class="overflow" id="chatWindow"></div>
+				</section>
+				<!--/messenger_body-->
+
+				<!--opinion_body-->
+				<section class="opinion-body" id="satisfaction">
+					<div class="table">
+						<div class="cell middle center">
+
+							<!--close-->
+							<div class="close">
+								<a href="#" id="closeSatisfaction">&times;</a>
+							</div>
+							<!--/close-->
+
+							<!--minimize-->
+							<div class="minimize">
+								<a href="#" id="minimizeSatisfaction">&minus;</a>
+							</div>
+							<!--/minimize-->
+
+							<!--stars_container-->
+							<div class="stars_container">
+
+
+
+								<!--text-->
+								<div class="text">
+									<p>¿Te gusto?</p>
+								</div>
+								<!--/text-->
+
+								<!--stars-->
+								<div class="stars" id="stars">
+									<ul>
+										<li><a href="#" data-star="1">1</a></li>
+										<li><a href="#" data-star="2">2</a></li>
+										<li><a href="#" data-star="3">3</a></li>
+										<li><a href="#" data-star="4">4</a></li>
+										<li><a href="#" data-star="5">5</a></li>
+									</ul>
+								</div>
+								<!--/stars-->
+
+								<!--send-->
+								<div class="send">
+									<a href="#" id="sendSatisfaction">Califícanos</a>
+								</div>
+								<!--/send-->
+
+							</div>
+							<!--/stars_container-->
+
+							<!-- /// -->
+
+							<!--success_message-->
+							<div class="success_message">
+								<!--avatar-->
+								<div class="avatar">
+								</div>
+								<!--/avatar-->
+
+								<h2></h2>
+							</div>
+							<!--/success_message-->
+
+						</div>
+					</div>
+				</section>
+				<!--/opinion_body-->
+<!--asdasd
+asd
+asd
+asd
+asd
+asd
+asd
+as
+da
+sdasd-->
+				<!--pop_message_body-->
+				<!--<section class="pop_message_body" id="closePopup">-->
+					<!--<div class="table">-->
+						<!--<div class="cell middle center" style="    text-align: -webkit-center;">-->
+
+
+
+							<!--&lt;!&ndash;message&ndash;&gt;-->
+							<!--<div class="message">-->
+
+								<!--<p>¿ Deseas cerrar el chat ?</p>-->
+
+								<!--<div class="avatar">-->
+								<!--</div>-->
+
+
+								<!--<ul>-->
+									<!--<li><a id="acceptClosePopup" href="#">Aceptar</a></li>-->
+									<!--<li><a id="cancelClosePopup" href="#">Cancelar</a></li>-->
+								<!--</ul>-->
+							<!--</div>-->
+							<!--&lt;!&ndash;/message&ndash;&gt;-->
+
+						<!--</div>-->
+					<!--</div>-->
+				<!--</section>-->
+				<!--/pop_message_body-->
+
+				<!-- /// -->
+
+				<!--frame_footer-->
+				<footer class="frame-footer">
+
+					<!--write_message-->
+					<div class="write_message">
+						<input type="text" id="chatMessage" placeholder="Escribe tu pregunta aquí"></input>
+					</div>
+					<!--/write_message-->
+
+					<!--send_message-->
+					<div class="send_message">
+						<a href="#" id="send-button">enviar</a>
+					</div>
+					<!--/send_message-->
+
+				</footer>
+				<!--/frame_footer-->
+
+				<!-- /// -->
+
+			</div>
+			<!--/messenger_frame-->
+
+			<!--launcher-->
+			<div class="launcher">
+				<div class="loading">
+					<div class="loading-dot"></div>
+					<div class="loading-dot"></div>
+					<div class="loading-dot"></div>
+				</div>
+				<span class="text"> ¿Te ayudo?</span>
+			</div>
+			<!--/launcher-->
+
+		</div>
+		<!--/watson_container-->
+
+
+
+	</body>
+</html>

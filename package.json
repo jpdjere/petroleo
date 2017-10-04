@@ -1,0 +1,32 @@
+{
+  "name": "node",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "~1.16.0",
+    "cf": "0.0.3",
+    "cheerio": "^0.22.0",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.3",
+    "debug": "~2.6.0",
+    "env": "0.0.2",
+    "express": "~4.14.1",
+    "he": "^1.1.1",
+    "htmlparser2": "^3.9.2",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "jade": "~1.11.0",
+    "jsdom": "^10.1.0",
+    "morgan": "~1.7.0",
+    "needle": "^1.6.0",
+    "request": "^2.83.0",
+    "serve-favicon": "~2.3.2",
+    "underscore": "^1.8.3",
+    "watson-developer-cloud": "^2.29.0",
+    "xml2js": "^0.4.17"
+  }
+}

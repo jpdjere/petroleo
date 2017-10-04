@@ -1,0 +1,42 @@
+[
+  {
+    "Actor": "SUPERVISOR DE PLAYA",
+    "Accion": "09.01.02.\r\nGenerar protocolo de remediaci�n"
+  },
+  {
+    "Actor": "VENDEDOR",
+    "Accion": "05.Cubrir completamente el derrame con absorbente mineral "
+  },
+  {
+    "Actor": "VENDEDOR",
+    "Accion": "02.Se�alizar la zona del derrame"
+  },
+  {
+    "Actor": "VENDEDOR",
+    "Accion": "03.Evaluar medidas de seguridad a tomar"
+  },
+  {
+    "Actor": "SUPERVISOR DE PLAYA",
+    "Accion": "09.02.03.\r\nLiberar zona del derrame"
+  },
+  {
+    "Actor": "VENDEDOR",
+    "Accion": "07.Recoger absorbente mineral "
+  },
+  {
+    "Actor": "SUPERVISOR DE PLAYA",
+    "Accion": "09.Controlar medida tomada"
+  },
+  {
+    "Actor": "VENDEDOR",
+    "Accion": "06.Barrer absorbente mineral  sobre derrame"
+  },
+  {
+    "Actor": "VENDEDOR",
+    "Accion": "04.Circundar el derrame con absorbente mineral"
+  },
+  {
+    "Actor": "SUPERVISOR DE PLAYA",
+    "Accion": "09.02.02.\r\nRegistrar incidente"
+  }
+]

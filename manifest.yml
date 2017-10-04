@@ -1,0 +1,7 @@
+applications:
+- memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: ypf-procesos
+  host: ypf-procesos
+  disk_quota: 256M

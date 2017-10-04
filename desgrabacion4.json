@@ -1,0 +1,50 @@
+[
+  {
+    "Actor": "VENDEDOR",
+    "Accion": "02.Señalizar la zona del derrame"
+  },
+  {
+    "Actor": "VENDEDOR",
+    "Accion": "03.Evaluar medidas de seguridad a tomar"
+  },
+  {
+    "Actor": "VENDEDOR",
+    "Accion": "04.Circundar el derrame con absorbente mineral"
+  },
+  {
+    "Actor": "VENDEDOR",
+    "Accion": "05.Cubrir completamente el derrame con absorbente mineral "
+  },
+  {
+    "Actor": "VENDEDOR",
+    "Accion": "06.Barrer absorbente mineral  sobre derrame"
+  },
+  {
+    "Actor": "VENDEDOR",
+    "Accion": "07.Recoger absorbente mineral "
+  },
+  {
+    "Actor": "SUPERVISOR DE PLAYA",
+    "Accion": "09.01.02.\r\nGenerar protocolo de remediación"
+  },
+  {
+    "Actor": "SUPERVISOR DE PLAYA",
+    "Accion": "09.02.02.\r\nRegistrar incidente"
+  },
+  {
+    "Actor": "SUPERVISOR DE PLAYA",
+    "Accion": "09.02.03.\r\nLiberar zona del derrame"
+  },
+  {
+    "Actor": "SUPERVISOR DE PLAYA",
+    "Accion": "09.Controlar medida tomada"
+  },
+  {
+    "Actor": "SUPERVISOR DE PLAYA",
+    "Accion": "</li></ul>¿Esta respuesta te fue de utilidad?<br><ul><li>"
+  },
+  {
+    "Actor": "VENDEDOR",
+    "Accion": "<a class='btn btn-info' onclick=\"writeAndSendMessage('Control Exitoso')\"> Control Exitoso</a> <br><br> <a class='btn btn-danger' onclick=\"writeAndSendMessage('Control Insuficiente')\"> Control Insuficiente</a>"
+  }
+]

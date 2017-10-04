@@ -1,0 +1,670 @@
+{
+	"kind": "RESULT",
+	"request": "abs#modelByID",
+	"status": "OK",
+	"item_count": 1,
+	"items": [
+		{
+		"kind": "MODEL",
+		"guid": "bd0dc8a0-d8a8-11e4-3656-18a9055adb12",
+		"link": {
+			"kind": "LINK",
+			"method": "GET",
+			"href": "http://assa60.grupoassa/abs/api/models/YPF%20V4%20GdP/bd0dc8a0-d8a8-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+			"rel": "SELF"
+			},
+		"type": 65549,
+		"typename": "YPF - Nivel 6",
+		"apiname": "1816d020-52ea-11e3-2cb1-18a9055adb12",
+		"type_guid": "1816d020-52ea-11e3-2cb1-18a9055adb12",
+		"attributes": [
+			{
+			"kind": "ATTRIBUTE",
+			"id": "-2YWFXIjIuHb:u:L=1=1034:1:s",
+			"typename": "Nombre",
+			"type": 1,
+			"apiname": "AT_NAME",
+			"language": "es_ES",
+			"value": "01. Contener derrames en playa en EESS YPF"//nombre del proceso
+			}],
+		"modelobjects": [
+			{
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+1aqLma594J6:x:L+33+c)",
+			"guid": "33435295-7bb3-11e4-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/33435295-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 18,
+			"typename": "Evento",
+			"apiname": "OT_EVT",
+			"symbol": 1,
+			"symbolname": "Evento",
+			"symbol_apiname": "ST_EV",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "Yn28fUFix2:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "Derrame en playa ocurrido"
+			}]
+		}, {
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+-57keMCIHflY:x:L+33+c)",
+			"guid": "3343529a-7bb3-11e4-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/3343529a-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 22,
+			"typename": "Actividad",
+			"apiname": "OT_FUNC",
+			"symbol": 335,
+			"symbolname": "Actividad",
+			"symbol_apiname": "ST_FUNC",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "6E34mi4M3OI:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "Evaluar medidas de seguridad a tomar" //
+			}]
+		}, {
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+_H3UpYzr#X:x:L+33+c)",
+			"guid": "334352a6-7bb3-11e4-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a6-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 22,
+			"typename": "Actividad",
+			"apiname": "OT_FUNC",
+			"symbol": 335,
+			"symbolname": "Actividad",
+			"symbol_apiname": "ST_FUNC",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "-3QXL3pUmMP0:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "Recoger absorbente mineral "
+			}]
+		}, {
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+-4UEyBmS33z#:x:L+33+c)",
+			"guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 44,
+			"typename": "Tipo de unidad organizativa",
+			"apiname": "OT_ORG_UNIT_TYPE",
+			"symbol": 299,
+			"symbolname": "YPF - Puesto genérico",
+			"symbol_apiname": "ST_POS_TYPE",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "-3bjy7qtxGF:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "VENDEDOR                                "
+			}]
+		}, {
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+-7gST6PZ3wio:x:L+33+c)",
+			"guid": "3343529d-7bb3-11e4-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/3343529d-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 22,
+			"typename": "Actividad",
+			"apiname": "OT_FUNC",
+			"symbol": 335,
+			"symbolname": "Actividad",
+			"symbol_apiname": "ST_FUNC",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "mVBcgAVcAO:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "Circundar el derrame con absorbente mineral"
+			}]
+		}, {
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+-3VTza3o20p1:x:L+33+c)",
+			"guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 44,
+			"typename": "Tipo de unidad organizativa",
+			"apiname": "OT_ORG_UNIT_TYPE",
+			"symbol": 299,
+			"symbolname": "YPF - Puesto genérico",
+			"symbol_apiname": "ST_POS_TYPE",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "-3bjy7qtxGF:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "VENDEDOR                                "
+			}]
+		}, {
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+7O8YZ2txEtI:x:L+33+c)",
+			"guid": "33435297-7bb3-11e4-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/33435297-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 22,
+			"typename": "Actividad",
+			"apiname": "OT_FUNC",
+			"symbol": 335,
+			"symbolname": "Actividad",
+			"symbol_apiname": "ST_FUNC",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "-wK3RfvHHNs:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "Señalizar la zona del derrame"
+			}]
+		}, {
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+-2p6FwyI9Izo:x:L+33+c)",
+			"guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 44,
+			"typename": "Tipo de unidad organizativa",
+			"apiname": "OT_ORG_UNIT_TYPE",
+			"symbol": 299,
+			"symbolname": "YPF - Puesto genérico",
+			"symbol_apiname": "ST_POS_TYPE",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "-3bjy7qtxGF:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "VENDEDOR                                "
+			}]
+		}, {
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+5geb3oTFDFn:x:L+33+c)",
+			"guid": "334352a3-7bb3-11e4-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a3-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 22,
+			"typename": "Actividad",
+			"apiname": "OT_FUNC",
+			"symbol": 335,
+			"symbolname": "Actividad",
+			"symbol_apiname": "ST_FUNC",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "-6qYPBq3rQ0I:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "Barrer absorbente mineral  sobre derrame"
+			}]
+		}, {
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+4EJA0IRZyeD:x:L+33+c)",
+			"guid": "334352a0-7bb3-11e4-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a0-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 22,
+			"typename": "Actividad",
+			"apiname": "OT_FUNC",
+			"symbol": 335,
+			"symbolname": "Actividad",
+			"symbol_apiname": "ST_FUNC",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "4UFB49UjRr3:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "Cubrir completamente el derrame con absorbente mineral "
+			}]
+		}, {
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+3BYDkcBEtYl:x:L+33+c)",
+			"guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 44,
+			"typename": "Tipo de unidad organizativa",
+			"apiname": "OT_ORG_UNIT_TYPE",
+			"symbol": 299,
+			"symbolname": "YPF - Puesto genérico",
+			"symbol_apiname": "ST_POS_TYPE",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "-3bjy7qtxGF:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "VENDEDOR"
+			}]
+		}, {
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+6hE_xouCjRl:x:L+33+c)",
+			"guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 44,
+			"typename": "Tipo de unidad organizativa",
+			"apiname": "OT_ORG_UNIT_TYPE",
+			"symbol": 299,
+			"symbolname": "YPF - Puesto genérico",
+			"symbol_apiname": "ST_POS_TYPE",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "-3bjy7qtxGF:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "VENDEDOR                                "
+			}]
+		}, {
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+-43V#6WPqmcr:x:L+33+c)",
+			"guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 44,
+			"typename": "Tipo de unidad organizativa",
+			"apiname": "OT_ORG_UNIT_TYPE",
+			"symbol": 299,
+			"symbolname": "YPF - Puesto genérico",
+			"symbol_apiname": "ST_POS_TYPE",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "-3bjy7qtxGF:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "VENDEDOR                                "
+			}]
+		}, {
+			"kind": "MODELOBJECT",
+			"occid": "(-2YWFXIjIuHb:u:L+-6IOdQmElCe3:x:L+33+c)",
+			"guid": "334352a9-7bb3-11e4-3656-18a9055adb12",
+			"link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a9-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"type": 18,
+			"typename": "Evento",
+			"apiname": "OT_EVT",
+			"symbol": 1,
+			"symbolname": "Evento",
+			"symbol_apiname": "ST_EV",
+			"attributes": [{
+				"kind": "ATTRIBUTE",
+				"id": "-6XkkLWpzG1M:p:L=1=1034:1:s",
+				"typename": "Nombre",
+				"type": 1,
+				"apiname": "AT_NAME",
+				"language": "es_ES",
+				"value": "Derrame en playa contenido"
+			}]
+		}],
+		"modelconnections": [{
+			"kind": "MODELCONNECTION",
+			"occid": "(-2YWFXIjIuHb:u:L+-11J_#mlv0t5:y:L+34+c)",
+			"type": 218,
+			"typename": "ejecuta",
+			"apiname": "CT_EXEC_2",
+			"source_guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+			"target_guid": "3343529a-7bb3-11e4-3656-18a9055adb12",
+			"source_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"target_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/3343529a-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"source_occid": "(-2YWFXIjIuHb:u:L+6hE_xouCjRl:x:L+33+c)",
+			"target_occid": "(-2YWFXIjIuHb:u:L+-57keMCIHflY:x:L+33+c)"
+		}, {
+			"kind": "MODELCONNECTION",
+			"occid": "(-2YWFXIjIuHb:u:L+60LVO5MAzgB:y:L+34+c)",
+			"type": 43,
+			"typename": "activa",
+			"apiname": "CT_ACTIV_1",
+			"source_guid": "33435295-7bb3-11e4-3656-18a9055adb12",
+			"target_guid": "33435297-7bb3-11e4-3656-18a9055adb12",
+			"source_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/33435295-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"target_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/33435297-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"source_occid": "(-2YWFXIjIuHb:u:L+1aqLma594J6:x:L+33+c)",
+			"target_occid": "(-2YWFXIjIuHb:u:L+7O8YZ2txEtI:x:L+33+c)"
+		}, {
+			"kind": "MODELCONNECTION",
+			"occid": "(-2YWFXIjIuHb:u:L+1QkEchORqW7:y:L+34+c)",
+			"type": 218,
+			"typename": "ejecuta",
+			"apiname": "CT_EXEC_2",
+			"source_guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+			"target_guid": "33435297-7bb3-11e4-3656-18a9055adb12",
+			"source_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"target_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/33435297-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"source_occid": "(-2YWFXIjIuHb:u:L+-4UEyBmS33z#:x:L+33+c)",
+			"target_occid": "(-2YWFXIjIuHb:u:L+7O8YZ2txEtI:x:L+33+c)"
+		}, {
+			"kind": "MODELCONNECTION",
+			"occid": "(-2YWFXIjIuHb:u:L+-2FlzxEAYoJB:y:L+34+c)",
+			"type": 118,
+			"typename": "activa",
+			"apiname": "CT_IS_PREDEC_OF_1",
+			"source_guid": "3343529a-7bb3-11e4-3656-18a9055adb12",
+			"target_guid": "3343529d-7bb3-11e4-3656-18a9055adb12",
+			"source_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/3343529a-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"target_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/3343529d-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"source_occid": "(-2YWFXIjIuHb:u:L+-57keMCIHflY:x:L+33+c)",
+			"target_occid": "(-2YWFXIjIuHb:u:L+-7gST6PZ3wio:x:L+33+c)"
+		}, {
+			"kind": "MODELCONNECTION",
+			"occid": "(-2YWFXIjIuHb:u:L+-TUPmMZjCiG:y:L+34+c)",
+			"type": 218,
+			"typename": "ejecuta",
+			"apiname": "CT_EXEC_2",
+			"source_guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+			"target_guid": "334352a6-7bb3-11e4-3656-18a9055adb12",
+			"source_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"target_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a6-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"source_occid": "(-2YWFXIjIuHb:u:L+-43V#6WPqmcr:x:L+33+c)",
+			"target_occid": "(-2YWFXIjIuHb:u:L+_H3UpYzr#X:x:L+33+c)"
+		}, {
+			"kind": "MODELCONNECTION",
+			"occid": "(-2YWFXIjIuHb:u:L+-2XGyBm_gjQI:y:L+34+c)",
+			"type": 118,
+			"typename": "activa",
+			"apiname": "CT_IS_PREDEC_OF_1",
+			"source_guid": "334352a3-7bb3-11e4-3656-18a9055adb12",
+			"target_guid": "334352a6-7bb3-11e4-3656-18a9055adb12",
+			"source_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a3-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"target_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a6-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"source_occid": "(-2YWFXIjIuHb:u:L+5geb3oTFDFn:x:L+33+c)",
+			"target_occid": "(-2YWFXIjIuHb:u:L+_H3UpYzr#X:x:L+33+c)"
+		}, {
+			"kind": "MODELCONNECTION",
+			"occid": "(-2YWFXIjIuHb:u:L+1NIk2cSWi9l:y:L+34+c)",
+			"type": 44,
+			"typename": "activa",
+			"apiname": "CT_CRT_1",
+			"source_guid": "334352a6-7bb3-11e4-3656-18a9055adb12",
+			"target_guid": "334352a9-7bb3-11e4-3656-18a9055adb12",
+			"source_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a6-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"target_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a9-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"source_occid": "(-2YWFXIjIuHb:u:L+_H3UpYzr#X:x:L+33+c)",
+			"target_occid": "(-2YWFXIjIuHb:u:L+-6IOdQmElCe3:x:L+33+c)"
+		}, {
+			"kind": "MODELCONNECTION",
+			"occid": "(-2YWFXIjIuHb:u:L+-6dTQedvfhEp:y:L+34+c)",
+			"type": 218,
+			"typename": "ejecuta",
+			"apiname": "CT_EXEC_2",
+			"source_guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+			"target_guid": "334352a3-7bb3-11e4-3656-18a9055adb12",
+			"source_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"target_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a3-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"source_occid": "(-2YWFXIjIuHb:u:L+-2p6FwyI9Izo:x:L+33+c)",
+			"target_occid": "(-2YWFXIjIuHb:u:L+5geb3oTFDFn:x:L+33+c)"
+		}, {
+			"kind": "MODELCONNECTION",
+			"occid": "(-2YWFXIjIuHb:u:L+-1eI9w80Gax6:y:L+34+c)",
+			"type": 118,
+			"typename": "activa",
+			"apiname": "CT_IS_PREDEC_OF_1",
+			"source_guid": "33435297-7bb3-11e4-3656-18a9055adb12",
+			"target_guid": "3343529a-7bb3-11e4-3656-18a9055adb12",
+			"source_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/33435297-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"target_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/3343529a-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"source_occid": "(-2YWFXIjIuHb:u:L+7O8YZ2txEtI:x:L+33+c)",
+			"target_occid": "(-2YWFXIjIuHb:u:L+-57keMCIHflY:x:L+33+c)"
+		}, {
+			"kind": "MODELCONNECTION",
+			"occid": "(-2YWFXIjIuHb:u:L+-f9Xli6gAFp:y:L+34+c)",
+			"type": 118,
+			"typename": "activa",
+			"apiname": "CT_IS_PREDEC_OF_1",
+			"source_guid": "3343529d-7bb3-11e4-3656-18a9055adb12",
+			"target_guid": "334352a0-7bb3-11e4-3656-18a9055adb12",
+			"source_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/3343529d-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"target_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a0-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"source_occid": "(-2YWFXIjIuHb:u:L+-7gST6PZ3wio:x:L+33+c)",
+			"target_occid": "(-2YWFXIjIuHb:u:L+4EJA0IRZyeD:x:L+33+c)"
+		}, {
+			"kind": "MODELCONNECTION",
+			"occid": "(-2YWFXIjIuHb:u:L+2QuLInsEaxM:y:L+34+c)",
+			"type": 118,
+			"typename": "activa",
+			"apiname": "CT_IS_PREDEC_OF_1",
+			"source_guid": "334352a0-7bb3-11e4-3656-18a9055adb12",
+			"target_guid": "334352a3-7bb3-11e4-3656-18a9055adb12",
+			"source_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a0-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"target_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a3-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"source_occid": "(-2YWFXIjIuHb:u:L+4EJA0IRZyeD:x:L+33+c)",
+			"target_occid": "(-2YWFXIjIuHb:u:L+5geb3oTFDFn:x:L+33+c)"
+		}, {
+			"kind": "MODELCONNECTION",
+			"occid": "(-2YWFXIjIuHb:u:L+4IEyTaISQ2U:y:L+34+c)",
+			"type": 218,
+			"typename": "ejecuta",
+			"apiname": "CT_EXEC_2",
+			"source_guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+			"target_guid": "3343529d-7bb3-11e4-3656-18a9055adb12",
+			"source_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"target_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/3343529d-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"source_occid": "(-2YWFXIjIuHb:u:L+-3VTza3o20p1:x:L+33+c)",
+			"target_occid": "(-2YWFXIjIuHb:u:L+-7gST6PZ3wio:x:L+33+c)"
+		}, {
+			"kind": "MODELCONNECTION",
+			"occid": "(-2YWFXIjIuHb:u:L+4A4tjTTzeDt:y:L+34+c)",
+			"type": 218,
+			"typename": "ejecuta",
+			"apiname": "CT_EXEC_2",
+			"source_guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+			"target_guid": "334352a0-7bb3-11e4-3656-18a9055adb12",
+			"source_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"target_link": {
+				"kind": "LINK",
+				"method": "GET",
+				"href": "http://assa60.grupoassa/abs/api/objects/YPF%20V4%20GdP/334352a0-7bb3-11e4-3656-18a9055adb12?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+				"rel": "OBJECT"
+			},
+			"source_occid": "(-2YWFXIjIuHb:u:L+3BYDkcBEtYl:x:L+33+c)",
+			"target_occid": "(-2YWFXIjIuHb:u:L+4EJA0IRZyeD:x:L+33+c)"
+		}]
+	}]
+}

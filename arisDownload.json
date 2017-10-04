@@ -1,0 +1,1544 @@
+{
+  "kind": "RESULT",
+  "request": "abs#modelByID",
+  "status": "OK",
+  "item_count": 1,
+  "items": [
+    {
+      "kind": "MODEL",
+      "guid": "bd0dc8a0-d8a8-11e4-3656-18a9055adb12",
+      "link": {
+        "kind": "LINK",
+        "method": "GET",
+        "href": "http://200.41.164.62/abs/api/models/YPF%20Naturalizaci%C3%B3n/bd0dc8a0-d8a8-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+        "rel": "SELF"
+      },
+      "type": 131085,
+      "typename": "EPC Modelo de Procesos",
+      "apiname": "1816d020-52ea-11e3-2cb1-18a9055adb12",
+      "type_guid": "1816d020-52ea-11e3-2cb1-18a9055adb12",
+      "attributes": [
+        {
+          "kind": "ATTRIBUTE",
+          "id": "4zR1BhaLWVS:u:L=1=1033:1:s",
+          "typename": "Name",
+          "type": 1,
+          "apiname": "AT_NAME",
+          "language": "en_US",
+          "value": "01. Contener derrames en playa en EESS YPF"
+        }
+      ],
+      "modelobjects": [
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+4qa6VEx33id:x:L+33+c)",
+          "guid": "04fc268c-a467-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc268c-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 18,
+          "typename": "Event",
+          "apiname": "OT_EVT",
+          "symbol": 1,
+          "symbolname": "Event",
+          "symbol_apiname": "ST_EV",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "7aeOijMx#TU:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "09.01.01.Medidas tomadas insuficientes"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+1XswueWaAdG:x:L+33+c)",
+          "guid": "04fc2670-a467-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2670-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 50,
+          "typename": "Rule",
+          "apiname": "OT_RULE",
+          "symbol": 42,
+          "symbolname": "AND",
+          "symbol_apiname": "ST_OPR_AND_1",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "-1hIlZqkN2Qv:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "Regla Y"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+-2mxe6#BYNw0:x:L+33+c)",
+          "guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 44,
+          "typename": "Organizational unit type",
+          "apiname": "OT_ORG_UNIT_TYPE",
+          "symbol": 299,
+          "symbolname": "Position type",
+          "symbol_apiname": "ST_POS_TYPE",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "1ygWq88UX7N:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "VENDEDOR                                "
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+6ZfEXewV_Em:x:L+33+c)",
+          "guid": "04fc267f-a467-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc267f-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 44,
+          "typename": "Organizational unit type",
+          "apiname": "OT_ORG_UNIT_TYPE",
+          "symbol": 299,
+          "symbolname": "Position type",
+          "symbol_apiname": "ST_POS_TYPE",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "xI0XkoGdl4:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "SUPERVISOR DE PLAYA"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+fR6DnVAYjB:x:L+33+c)",
+          "guid": "7a12e735-a469-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/7a12e735-a469-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 22,
+          "typename": "Function",
+          "apiname": "OT_FUNC",
+          "symbol": 335,
+          "symbolname": "Function",
+          "symbol_apiname": "ST_FUNC",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "-4yRCFUKSeOE:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "09.01.02.\r\nGenerar protocolo de remediación"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+-5xGFQcd5ubq:x:L+33+c)",
+          "guid": "334352a9-7bb3-11e4-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a9-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 18,
+          "typename": "Event",
+          "apiname": "OT_EVT",
+          "symbol": 1,
+          "symbolname": "Event",
+          "symbol_apiname": "ST_EV",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "-7I7jHyOXPXP:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "08.Derrame en playa contenido"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+5aiBxi9C1nY:x:L+33+c)",
+          "guid": "04fc2675-a467-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2675-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 22,
+          "typename": "Function",
+          "apiname": "OT_FUNC",
+          "symbol": 94,
+          "symbolname": "Process interface",
+          "symbol_apiname": "ST_PRCS_IF",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "1JxkA2qEn1o:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "01. Realizar ciclo de servicio de combustibles líquidos en Estaciones de Servicios YPF"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+-lmjn50ofS7:x:L+33+c)",
+          "guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 44,
+          "typename": "Organizational unit type",
+          "apiname": "OT_ORG_UNIT_TYPE",
+          "symbol": 299,
+          "symbolname": "Position type",
+          "symbol_apiname": "ST_POS_TYPE",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "1ygWq88UX7N:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "VENDEDOR                                "
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+-3308i7EjNAm:x:L+33+c)",
+          "guid": "7a12e730-a469-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/7a12e730-a469-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 18,
+          "typename": "Event",
+          "apiname": "OT_EVT",
+          "symbol": 1,
+          "symbolname": "Event",
+          "symbol_apiname": "ST_EV",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "-2MEre#9OGKP:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "09.02.04.\r\nZona del derrame liberada"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+-5IsBod6DlHh:x:L+33+c)",
+          "guid": "334352a6-7bb3-11e4-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a6-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 22,
+          "typename": "Function",
+          "apiname": "OT_FUNC",
+          "symbol": 335,
+          "symbolname": "Function",
+          "symbol_apiname": "ST_FUNC",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "3zCt9nEGnzp:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "07.Recoger absorbente mineral "
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+4ZodcYfYXrm:x:L+33+c)",
+          "guid": "33435295-7bb3-11e4-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/33435295-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 18,
+          "typename": "Event",
+          "apiname": "OT_EVT",
+          "symbol": 1,
+          "symbolname": "Event",
+          "symbol_apiname": "ST_EV",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "3E7EGXtDtsx:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "01. Derrame en playa ocurrido"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+4dLvPT4j5MJ:x:L+33+c)",
+          "guid": "04fc267f-a467-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc267f-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 44,
+          "typename": "Organizational unit type",
+          "apiname": "OT_ORG_UNIT_TYPE",
+          "symbol": 299,
+          "symbolname": "Position type",
+          "symbol_apiname": "ST_POS_TYPE",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "xI0XkoGdl4:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "SUPERVISOR DE PLAYA"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+-3oMbqlEBmFN:x:L+33+c)",
+          "guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 44,
+          "typename": "Organizational unit type",
+          "apiname": "OT_ORG_UNIT_TYPE",
+          "symbol": 299,
+          "symbolname": "Position type",
+          "symbol_apiname": "ST_POS_TYPE",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "1ygWq88UX7N:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "VENDEDOR                                "
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+-4gIeZjmEDEj:x:L+33+c)",
+          "guid": "3343529a-7bb3-11e4-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/3343529a-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 22,
+          "typename": "Function",
+          "apiname": "OT_FUNC",
+          "symbol": 335,
+          "symbolname": "Function",
+          "symbol_apiname": "ST_FUNC",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "Xj4nIFHOcG:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "03.Evaluar medidas de seguridad a tomar"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+23jJwKsd5wE:x:L+33+c)",
+          "guid": "04fc267f-a467-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc267f-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 44,
+          "typename": "Organizational unit type",
+          "apiname": "OT_ORG_UNIT_TYPE",
+          "symbol": 299,
+          "symbolname": "Position type",
+          "symbol_apiname": "ST_POS_TYPE",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "xI0XkoGdl4:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "SUPERVISOR DE PLAYA"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+6oYxooLeZQH:x:L+33+c)",
+          "guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 44,
+          "typename": "Organizational unit type",
+          "apiname": "OT_ORG_UNIT_TYPE",
+          "symbol": 299,
+          "symbolname": "Position type",
+          "symbol_apiname": "ST_POS_TYPE",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "1ygWq88UX7N:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "VENDEDOR                                "
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+-2EOaVWOfZbY:x:L+33+c)",
+          "guid": "33435297-7bb3-11e4-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/33435297-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 22,
+          "typename": "Function",
+          "apiname": "OT_FUNC",
+          "symbol": 335,
+          "symbolname": "Function",
+          "symbol_apiname": "ST_FUNC",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "-6O#D3wy1Ip6:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "02.Señalizar la zona del derrame"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+-53KuwiRA0BJ:x:L+33+c)",
+          "guid": "04fc2682-a467-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2682-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 50,
+          "typename": "Rule",
+          "apiname": "OT_RULE",
+          "symbol": 44,
+          "symbolname": "XOR",
+          "symbol_apiname": "ST_OPR_XOR_1",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "-7JDf#_RjWNn:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "Regla O exclusivo"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+-5L6kWZw418v:x:L+33+c)",
+          "guid": "7a12e73a-a469-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/7a12e73a-a469-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 18,
+          "typename": "Event",
+          "apiname": "OT_EVT",
+          "symbol": 1,
+          "symbolname": "Event",
+          "symbol_apiname": "ST_EV",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "-5m3up43rTdI:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "09.01.03.\r\nProtocolo de remediación generado"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+1nOIFwYrvC2:x:L+33+c)",
+          "guid": "04fc267f-a467-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc267f-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 44,
+          "typename": "Organizational unit type",
+          "apiname": "OT_ORG_UNIT_TYPE",
+          "symbol": 299,
+          "symbolname": "Position type",
+          "symbol_apiname": "ST_POS_TYPE",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "xI0XkoGdl4:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "SUPERVISOR DE PLAYA"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+1lCLosZNAjR:x:L+33+c)",
+          "guid": "04fc2696-a467-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2696-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 22,
+          "typename": "Function",
+          "apiname": "OT_FUNC",
+          "symbol": 335,
+          "symbolname": "Function",
+          "symbol_apiname": "ST_FUNC",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "3PcWPKM2dec:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "09.02.03.\r\nLiberar zona del derrame"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+5Q0PNbCGrR9:x:L+33+c)",
+          "guid": "7a12e742-a469-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/7a12e742-a469-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 22,
+          "typename": "Function",
+          "apiname": "OT_FUNC",
+          "symbol": 94,
+          "symbolname": "Process interface",
+          "symbol_apiname": "ST_PRCS_IF",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "5DHAJrPRuA#:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "Controlar Seguridad y Medioambiente"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+4PCGA1#AO1R:x:L+33+c)",
+          "guid": "334352a0-7bb3-11e4-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a0-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 22,
+          "typename": "Function",
+          "apiname": "OT_FUNC",
+          "symbol": 335,
+          "symbolname": "Function",
+          "symbol_apiname": "ST_FUNC",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "1vZXhJmvMJR:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "05.Cubrir completamente el derrame con absorbente mineral "
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+4Nd0qjTqCGU:x:L+33+c)",
+          "guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 44,
+          "typename": "Organizational unit type",
+          "apiname": "OT_ORG_UNIT_TYPE",
+          "symbol": 299,
+          "symbolname": "Position type",
+          "symbol_apiname": "ST_POS_TYPE",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "1ygWq88UX7N:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "VENDEDOR                                "
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+19NYa7D8Yt2:x:L+33+c)",
+          "guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 44,
+          "typename": "Organizational unit type",
+          "apiname": "OT_ORG_UNIT_TYPE",
+          "symbol": 299,
+          "symbolname": "Position type",
+          "symbol_apiname": "ST_POS_TYPE",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "1ygWq88UX7N:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "VENDEDOR                                "
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+-10dxWgxBvKn:x:L+33+c)",
+          "guid": "04fc2688-a467-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2688-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 18,
+          "typename": "Event",
+          "apiname": "OT_EVT",
+          "symbol": 1,
+          "symbolname": "Event",
+          "symbol_apiname": "ST_EV",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "-1#ACKB07ACX:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "09.02.01.\r\nMedidas tomadas suficientes"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+7JN35yxKlXe:x:L+33+c)",
+          "guid": "3343529d-7bb3-11e4-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/3343529d-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 22,
+          "typename": "Function",
+          "apiname": "OT_FUNC",
+          "symbol": 335,
+          "symbolname": "Function",
+          "symbol_apiname": "ST_FUNC",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "-2HxchpJu8AO:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "04.Circundar el derrame con absorbente mineral"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+12ircuNgFfU:x:L+33+c)",
+          "guid": "04fc267a-a467-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc267a-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 22,
+          "typename": "Function",
+          "apiname": "OT_FUNC",
+          "symbol": 335,
+          "symbolname": "Function",
+          "symbol_apiname": "ST_FUNC",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "4mM8vRqjYSD:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "09.Controlar medida tomada"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+-5GiCjlEbqBb:x:L+33+c)",
+          "guid": "334352a3-7bb3-11e4-3656-18a9055adb12",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a3-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 22,
+          "typename": "Function",
+          "apiname": "OT_FUNC",
+          "symbol": 335,
+          "symbolname": "Function",
+          "symbol_apiname": "ST_FUNC",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "uss4x8P8nq:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "06.Barrer absorbente mineral  sobre derrame"
+            }
+          ]
+        },
+        {
+          "kind": "MODELOBJECT",
+          "occid": "(4zR1BhaLWVS:u:L+-4F3d0PgaAlL:x:L+33+c)",
+          "guid": "04fc2692-a467-11e7-3c10-000c2994ab03",
+          "link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2692-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "type": 22,
+          "typename": "Function",
+          "apiname": "OT_FUNC",
+          "symbol": 335,
+          "symbolname": "Function",
+          "symbol_apiname": "ST_FUNC",
+          "attributes": [
+            {
+              "kind": "ATTRIBUTE",
+              "id": "DG5Ne#TMqQ:p:L=1=1033:1:s",
+              "typename": "Name",
+              "type": 1,
+              "apiname": "AT_NAME",
+              "language": "en_US",
+              "value": "09.02.02.\r\nRegistrar incidente"
+            }
+          ]
+        }
+      ],
+      "modelconnections": [
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-2D4uznNX8Fb:y:L+34+c)",
+          "type": 118,
+          "typename": "activates",
+          "apiname": "CT_IS_PREDEC_OF_1",
+          "source_guid": "334352a0-7bb3-11e4-3656-18a9055adb12",
+          "target_guid": "334352a3-7bb3-11e4-3656-18a9055adb12",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a0-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a3-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+4PCGA1#AO1R:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-5GiCjlEbqBb:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+5Z0fxxIuazk:y:L+34+c)",
+          "type": 48,
+          "typename": "activates",
+          "apiname": "CT_IS_EVAL_BY_1",
+          "source_guid": "334352a9-7bb3-11e4-3656-18a9055adb12",
+          "target_guid": "04fc2670-a467-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a9-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2670-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+-5xGFQcd5ubq:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+1XswueWaAdG:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-5bNkVU0_wb:y:L+34+c)",
+          "type": 44,
+          "typename": "activates",
+          "apiname": "CT_CRT_1",
+          "source_guid": "04fc2696-a467-11e7-3c10-000c2994ab03",
+          "target_guid": "7a12e730-a469-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2696-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/7a12e730-a469-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+1lCLosZNAjR:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-3308i7EjNAm:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+5W4j1Rcxaof:y:L+34+c)",
+          "type": 118,
+          "typename": "activates",
+          "apiname": "CT_IS_PREDEC_OF_1",
+          "source_guid": "3343529d-7bb3-11e4-3656-18a9055adb12",
+          "target_guid": "334352a0-7bb3-11e4-3656-18a9055adb12",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/3343529d-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a0-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+7JN35yxKlXe:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+4PCGA1#AO1R:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-146Hn1ImNU0:y:L+34+c)",
+          "type": 218,
+          "typename": "carries out",
+          "apiname": "CT_EXEC_2",
+          "source_guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+          "target_guid": "334352a6-7bb3-11e4-3656-18a9055adb12",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a6-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+4Nd0qjTqCGU:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-5IsBod6DlHh:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-1G60Vfebj4o:y:L+34+c)",
+          "type": 218,
+          "typename": "carries out",
+          "apiname": "CT_EXEC_2",
+          "source_guid": "04fc267f-a467-11e7-3c10-000c2994ab03",
+          "target_guid": "7a12e735-a469-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc267f-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/7a12e735-a469-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+1nOIFwYrvC2:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+fR6DnVAYjB:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-5BqLyl26jHo:y:L+34+c)",
+          "type": 218,
+          "typename": "carries out",
+          "apiname": "CT_EXEC_2",
+          "source_guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+          "target_guid": "3343529a-7bb3-11e4-3656-18a9055adb12",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/3343529a-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+-3oMbqlEBmFN:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-4gIeZjmEDEj:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+6sOo6eEl1dw:y:L+34+c)",
+          "type": 43,
+          "typename": "activates",
+          "apiname": "CT_ACTIV_1",
+          "source_guid": "04fc2670-a467-11e7-3c10-000c2994ab03",
+          "target_guid": "04fc267a-a467-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2670-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc267a-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+1XswueWaAdG:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+12ircuNgFfU:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-2f6_DDfXfDT:y:L+34+c)",
+          "type": 117,
+          "typename": "activates",
+          "apiname": "CT_LEADS_TO_2",
+          "source_guid": "04fc2682-a467-11e7-3c10-000c2994ab03",
+          "target_guid": "04fc268c-a467-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2682-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc268c-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+-53KuwiRA0BJ:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+4qa6VEx33id:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+6m8kI5UQfYZ:y:L+34+c)",
+          "type": 118,
+          "typename": "activates",
+          "apiname": "CT_IS_PREDEC_OF_1",
+          "source_guid": "04fc2692-a467-11e7-3c10-000c2994ab03",
+          "target_guid": "04fc2696-a467-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2692-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2696-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+-4F3d0PgaAlL:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+1lCLosZNAjR:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+4iYvmZlH4kz:y:L+34+c)",
+          "type": 118,
+          "typename": "activates",
+          "apiname": "CT_IS_PREDEC_OF_1",
+          "source_guid": "3343529a-7bb3-11e4-3656-18a9055adb12",
+          "target_guid": "3343529d-7bb3-11e4-3656-18a9055adb12",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/3343529a-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/3343529d-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+-4gIeZjmEDEj:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+7JN35yxKlXe:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-1X92lpAk_kQ:y:L+34+c)",
+          "type": 118,
+          "typename": "activates",
+          "apiname": "CT_IS_PREDEC_OF_1",
+          "source_guid": "334352a3-7bb3-11e4-3656-18a9055adb12",
+          "target_guid": "334352a6-7bb3-11e4-3656-18a9055adb12",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a3-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a6-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+-5GiCjlEbqBb:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-5IsBod6DlHh:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+41MzDpGr0cu:y:L+34+c)",
+          "type": 118,
+          "typename": "activates",
+          "apiname": "CT_IS_PREDEC_OF_1",
+          "source_guid": "33435297-7bb3-11e4-3656-18a9055adb12",
+          "target_guid": "3343529a-7bb3-11e4-3656-18a9055adb12",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/33435297-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/3343529a-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+-2EOaVWOfZbY:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-4gIeZjmEDEj:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-1myddFzroUo:y:L+34+c)",
+          "type": 218,
+          "typename": "carries out",
+          "apiname": "CT_EXEC_2",
+          "source_guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+          "target_guid": "33435297-7bb3-11e4-3656-18a9055adb12",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/33435297-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+-lmjn50ofS7:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-2EOaVWOfZbY:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-BiWjsSO1ci:y:L+34+c)",
+          "type": 218,
+          "typename": "carries out",
+          "apiname": "CT_EXEC_2",
+          "source_guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+          "target_guid": "334352a3-7bb3-11e4-3656-18a9055adb12",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a3-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+-2mxe6#BYNw0:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-5GiCjlEbqBb:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-3FU6aaUzpSf:y:L+34+c)",
+          "type": 43,
+          "typename": "activates",
+          "apiname": "CT_ACTIV_1",
+          "source_guid": "04fc2688-a467-11e7-3c10-000c2994ab03",
+          "target_guid": "04fc2692-a467-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2688-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2692-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+-10dxWgxBvKn:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-4F3d0PgaAlL:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+1R21nYCZE6a:y:L+34+c)",
+          "type": 43,
+          "typename": "activates",
+          "apiname": "CT_ACTIV_1",
+          "source_guid": "7a12e73a-a469-11e7-3c10-000c2994ab03",
+          "target_guid": "7a12e742-a469-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/7a12e73a-a469-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/7a12e742-a469-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+-5L6kWZw418v:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+5Q0PNbCGrR9:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+7hS1PzFsxIc:y:L+34+c)",
+          "type": 218,
+          "typename": "carries out",
+          "apiname": "CT_EXEC_2",
+          "source_guid": "04fc267f-a467-11e7-3c10-000c2994ab03",
+          "target_guid": "04fc267a-a467-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc267f-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc267a-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+23jJwKsd5wE:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+12ircuNgFfU:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-65mvSOiLjpl:y:L+34+c)",
+          "type": 44,
+          "typename": "activates",
+          "apiname": "CT_CRT_1",
+          "source_guid": "7a12e735-a469-11e7-3c10-000c2994ab03",
+          "target_guid": "7a12e73a-a469-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/7a12e735-a469-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/7a12e73a-a469-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+fR6DnVAYjB:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-5L6kWZw418v:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+5nQUcuvjK2T:y:L+34+c)",
+          "type": 218,
+          "typename": "carries out",
+          "apiname": "CT_EXEC_2",
+          "source_guid": "04fc267f-a467-11e7-3c10-000c2994ab03",
+          "target_guid": "04fc2696-a467-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc267f-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2696-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+6ZfEXewV_Em:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+1lCLosZNAjR:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+lxkK5HL2a4:y:L+34+c)",
+          "type": 117,
+          "typename": "activates",
+          "apiname": "CT_LEADS_TO_2",
+          "source_guid": "04fc2682-a467-11e7-3c10-000c2994ab03",
+          "target_guid": "04fc2688-a467-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2682-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2688-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+-53KuwiRA0BJ:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-10dxWgxBvKn:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-3YQiP5chnup:y:L+34+c)",
+          "type": 218,
+          "typename": "carries out",
+          "apiname": "CT_EXEC_2",
+          "source_guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+          "target_guid": "3343529d-7bb3-11e4-3656-18a9055adb12",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/3343529d-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+6oYxooLeZQH:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+7JN35yxKlXe:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-uNc4bVWadE:y:L+34+c)",
+          "type": 43,
+          "typename": "activates",
+          "apiname": "CT_ACTIV_1",
+          "source_guid": "04fc2670-a467-11e7-3c10-000c2994ab03",
+          "target_guid": "04fc2675-a467-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2670-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2675-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+1XswueWaAdG:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+5aiBxi9C1nY:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+1A#iH5jS6QO:y:L+34+c)",
+          "type": 43,
+          "typename": "activates",
+          "apiname": "CT_ACTIV_1",
+          "source_guid": "33435295-7bb3-11e4-3656-18a9055adb12",
+          "target_guid": "33435297-7bb3-11e4-3656-18a9055adb12",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/33435295-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/33435297-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+4ZodcYfYXrm:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-2EOaVWOfZbY:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+-5E6UsqawuQ#:y:L+34+c)",
+          "type": 218,
+          "typename": "carries out",
+          "apiname": "CT_EXEC_2",
+          "source_guid": "309466d1-6e83-11e3-3656-18a9055adb12",
+          "target_guid": "334352a0-7bb3-11e4-3656-18a9055adb12",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/309466d1-6e83-11e3-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a0-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+19NYa7D8Yt2:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+4PCGA1#AO1R:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+2AsSr6NljsT:y:L+34+c)",
+          "type": 44,
+          "typename": "activates",
+          "apiname": "CT_CRT_1",
+          "source_guid": "334352a6-7bb3-11e4-3656-18a9055adb12",
+          "target_guid": "334352a9-7bb3-11e4-3656-18a9055adb12",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a6-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/334352a9-7bb3-11e4-3656-18a9055adb12?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+-5IsBod6DlHh:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-5xGFQcd5ubq:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+1U9RplgLu1L:y:L+34+c)",
+          "type": 116,
+          "typename": "activates",
+          "apiname": "CT_LEADS_TO_1",
+          "source_guid": "04fc267a-a467-11e7-3c10-000c2994ab03",
+          "target_guid": "04fc2682-a467-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc267a-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2682-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+12ircuNgFfU:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-53KuwiRA0BJ:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+2CEUH0V06Qz:y:L+34+c)",
+          "type": 218,
+          "typename": "carries out",
+          "apiname": "CT_EXEC_2",
+          "source_guid": "04fc267f-a467-11e7-3c10-000c2994ab03",
+          "target_guid": "04fc2692-a467-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc267f-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2692-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+4dLvPT4j5MJ:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+-4F3d0PgaAlL:x:L+33+c)"
+        },
+        {
+          "kind": "MODELCONNECTION",
+          "occid": "(4zR1BhaLWVS:u:L+5JdnVIIdGrA:y:L+34+c)",
+          "type": 43,
+          "typename": "activates",
+          "apiname": "CT_ACTIV_1",
+          "source_guid": "04fc268c-a467-11e7-3c10-000c2994ab03",
+          "target_guid": "7a12e735-a469-11e7-3c10-000c2994ab03",
+          "source_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc268c-a467-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "target_link": {
+            "kind": "LINK",
+            "method": "GET",
+            "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/7a12e735-a469-11e7-3c10-000c2994ab03?language=es_ES?UMCSESSION=EYJ0EXBLIJOIDW1JIIWIDGVUYW50SWQIOIJKZWZHDWX0IIWIDXNLCM5HBWUIOIJZEXN0ZW0ILCJZZXNZAW9UIJOIDW8ZRG1KZETZYMQZBTF5AU1DDEDFOU5FEW9RLXNCBEF5SUWTWTDDV1I5BGYTU25XUMZ6RDL2ODEIFQ&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+            "rel": "OBJECT"
+          },
+          "source_occid": "(4zR1BhaLWVS:u:L+4qa6VEx33id:x:L+33+c)",
+          "target_occid": "(4zR1BhaLWVS:u:L+fR6DnVAYjB:x:L+33+c)"
+        }
+      ]
+    }
+  ]
+}

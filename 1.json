@@ -1,0 +1,38 @@
+[
+  {
+    "kind": "MODELOBJECT",
+    "occid": "(4zR1BhaLWVS:u:L+-4F3d0PgaAlL:x:L+33+c)",
+    "guid": "04fc2692-a467-11e7-3c10-000c2994ab03",
+    "link": {
+      "kind": "LINK",
+      "method": "GET",
+      "href": "http://200.41.164.62/abs/api/objects/YPF%20Naturalizaci%C3%B3n/04fc2692-a467-11e7-3c10-000c2994ab03?language=es_ES&methodfilter=dd838074-ac29-11d4-85b8-00005a4053ff",
+      "rel": "OBJECT"
+    },
+    "type": 22,
+    "typename": "Actividad",
+    "apiname": "OT_FUNC",
+    "symbol": 335,
+    "symbolname": "Actividad",
+    "symbol_apiname": "ST_FUNC",
+    "attributes": [
+      {
+        "kind": "ATTRIBUTE",
+        "id": "DG5Ne#TMqQ:p:L=1=1034:1:s",
+        "typename": "Nombre",
+        "type": 1,
+        "apiname": "AT_NAME",
+        "language": "es_ES",
+        "value": "09.02.02.\r\nRegistrar incidente"
+      }
+    ]
+  }
+]R DE PLAYA"
+      }
+    ]
+  }
+] "
+      }
+    ]
+  }
+]]
