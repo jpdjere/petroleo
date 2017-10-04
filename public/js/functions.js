@@ -3,11 +3,11 @@ var DEBUG = (window.location.hash.substr(1) == 'watson_debug');
 if(window.location.host.indexOf("bluemix") > -1){
   //Si encuentro "Bluemix" en mi host, estoy en PROD
   PROXY_URL = "http://ypf-procesos.mybluemix.net/";
-  console.log("ENV PROD:"PROXY_URL);
+  console.log("ENV PROD:",PROXY_URL);
 }else{
   //Sino, estoy en DEV
   PROXY_URL = "http://localhost:3000/";
-  console.log("ENV DEV:"PROXY_URL);
+  console.log("ENV DEV:",PROXY_URL);
 }
 
 
